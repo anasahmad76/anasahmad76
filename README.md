@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi There, I'm Anas  👋</h1>
+<h1>Hi There, I'm Anas 👋</h1>
 
 <a href="https://github.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;Aspiring+Software+Engineer;Tech+Innovator" alt="Typing SVG" />
@@ -18,7 +18,7 @@
 ## 📊 2026 Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saksham&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ff1493&ring_color=ff1493&count_private=true&include_all_commits=true" alt="Saksham's Contribution Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ff1493&ring_color=ff1493&count_private=true&include_all_commits=true" alt="Anas's Contribution Stats" />
 </div>
 
 ---
@@ -77,23 +77,4 @@
 
 </div>
 
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saksham&show_icons=true&theme=radical&hide_border=true&title_color=ff1493&icon_color=ff1493&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham&layout=compact&theme=radical&hide_border=true&title_color=ff1493&hide_title=false" alt="Top Languages" height="170" />
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for stopping by! ⭐
-
-**— Saksham Sharma** ✨
-
-<img src="https://img.shields.io/badge/Keep%20Learning-Keep%20Building-ff1493?style=flat&labelColor=1a1a1a" alt="Keep Learning, Keep Building" />
-
-</div>
+  
