@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi There, I'm Saksham 👋</h1>
+<h1>Hi There, I'm Anas  👋</h1>
 
 <a href="https://github.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;Aspiring+Software+Engineer;Tech+Innovator" alt="Typing SVG" />
